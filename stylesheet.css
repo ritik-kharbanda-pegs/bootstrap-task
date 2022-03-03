@@ -63,6 +63,10 @@ body {
     padding: 1.2rem !important;
   }
 
+  .px-xs-3{
+    padding: 1rem !important;
+  }
+
   .py-xs-5 {
     padding: 2rem !important;
   }
